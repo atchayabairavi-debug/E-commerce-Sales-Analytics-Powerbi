@@ -1,0 +1,201 @@
+﻿Product_ID,Product_Name,Category,Subcategory,Brand,Cost_Price,Selling_Price
+P0001,Gaming Mouse,Electronics,Audio,HP,47350,60144
+P0002,Yoga Mat,Sports,Outdoor,Decathlon,7884,13348
+P0003,Instant Noodles,Grocery,Staples,Tata,500,791
+P0004,Biscuits Pack,Grocery,Snacks,Britannia,679,1206
+P0005,Power Bank,Electronics,Cameras,Dell,6071,7969
+P0006,Winter Jacket,Clothing,Men,H&M,2619,3753
+P0007,Yoga Mat,Sports,Outdoor,Cosco,2387,4231
+P0008,Kids Hoodie,Clothing,Footwear,Zara,724,1241
+P0009,Moisturizer,Beauty,Makeup,Dove,433,715
+P0010,Curtain Set,Home,Kitchen,Milton,7918,11672
+P0011,Winter Jacket,Clothing,Women,Puma,2054,3065
+P0012,Kajal,Beauty,Haircare,Mamaearth,632,869
+P0013,Winter Jacket,Clothing,Kids,Zara,2989,4292
+P0014,Bluetooth Speaker,Electronics,Cameras,Dell,32218,41193
+P0015,Body Lotion,Beauty,Haircare,Mamaearth,1033,1337
+P0016,Cotton T-Shirt,Clothing,Footwear,Puma,1482,2409
+P0017,Winter Jacket,Clothing,Kids,H&M,2519,4065
+P0018,Dumbbell Set,Sports,Fitness,Nivia,464,585
+P0019,Face Mask,Beauty,Fragrance,Maybelline,1182,1517
+P0020,Shampoo,Beauty,Skincare,Mamaearth,1756,2404
+P0021,Wireless Headphones,Electronics,Cameras,JBL,49223,62194
+P0022,USB Cable,Electronics,Mobiles,Samsung,1799,2382
+P0023,Study Table,Home,Storage,Milton,8296,13700
+P0024,Storage Box,Home,Furniture,Urban Ladder,14256,18084
+P0025,Wall Clock,Home,Storage,Milton,16547,24417
+P0026,Smartphone,Electronics,Mobiles,Apple,36483,54255
+P0027,Cornflakes,Grocery,Snacks,Britannia,238,372
+P0028,Wooden Bookshelf,Home,Bedding,Wakefit,844,1165
+P0029,Yoga Mat,Sports,Team Sports,Cosco,3106,4294
+P0030,Wall Clock,Home,Furniture,IKEA,19182,24048
+P0031,Storage Box,Home,Kitchen,Milton,5785,10154
+P0032,DSLR Camera,Electronics,Audio,HP,10851,13854
+P0033,Cricket Bat,Sports,Outdoor,Wilson,1512,2098
+P0034,Smartwatch,Electronics,Accessories,JBL,26026,43749
+P0035,Badminton Racket,Sports,Fitness,Yonex,2119,2748
+P0036,Basmati Rice,Grocery ,Organic,Britannia,756,969
+P0037,Study Table,Home,Decor,Wakefit,8856,13612
+P0038,Biscuits Pack,Grocery,Beverages,Britannia,427,544
+P0039,Cycling Helmet,Sports,Fitness,Cosco,4702,6316
+P0040,DSLR Camera,Electronics,Laptops,boAt,43389,71041
+P0041,Winter Jacket,Clothing,Men,Levis,2203,3254
+P0042,Sunscreen SPF50,Beauty ,Haircare,Loreal,774,1326
+P0043,Cricket Bat,Sports,Outdoor,Cosco,4229,6079
+P0044,Gaming Mouse,Electronics,Accessories,boAt,34556,44473
+P0045,Cycling Helmet,Sports,Team Sports,Decathlon,5997,9877
+P0046,Yoga Mat,Sports,Cycling,Wilson,2962,4263
+P0047,Smartwatch,Electronics,Mobiles,boAt,3982,6323
+P0048,Almonds Pack,Grocery,Staples,Nestle,828,1343
+P0049,Sunscreen SPF50,Beauty,Skincare,Loreal,923,1526
+P0050,Face Mask,Beauty,Haircare,Mamaearth,477,630
+P0051,LED Monitor,Electronics,Audio,Sony,39307,70007
+P0052,Hair Serum,Beauty,Makeup,Nivea,363,504
+P0053,Wall Clock,Home,Bedding,Cello,15072,23494
+P0054,Wooden Bookshelf,Home,Storage,Prestige,13263,19088
+P0055,Badminton Racket,Sports,Team Sports,Wilson,4820,6563
+P0056,Winter Jacket,Clothing,Women,H&M,2964,4996
+P0057,Bluetooth Speaker,Electronics,Accessories,HP,13257,17781
+P0058,Study Table,Home,Bedding,Urban Ladder,14675,21939
+P0059,Badminton Racket,Sports,Team Sports,Decathlon,8724,12555
+P0060,Laptop,Electronics,Audio,Apple,12997,19648
+P0061,Organic Honey,Grocery,Organic,Nestle,606,1013
+P0062,Cycling Helmet,Sports,Team Sports,Decathlon,8771,12775
+P0063,Almonds Pack,Grocery,Beverages,Patanjali,254,386
+P0064,Wall Clock,Home,Kitchen,Cello,7307,10133
+P0065,Laptop,Electronics,Audio,Samsung,24575,42031
+P0066,Leather Belt,Clothing,Men,Puma,2331,4201
+P0067,Perfume,Beauty,Makeup,Mamaearth,1114,1527
+P0068,Face Wash,Beauty,Skincare,Lakme,952,1276
+P0069,Table Tennis Kit,Sports,Outdoor,Decathlon,7256,11321
+P0070,Cycling Helmet,Sports,Fitness,Wilson,821,1435
+P0071,Gym Gloves,Sports,Cycling,Decathlon,5123,7220
+P0072,Face Mask,Beauty,Makeup,Nivea,555,754
+P0073,Bluetooth Speaker,Electronics,Audio,boAt,41513,58455
+P0074,Body Lotion,Beauty,Haircare,Lakme,1663,2161
+P0075,Cricket Bat,Sports,Team Sports,Wilson,293,429
+P0076,Biscuits Pack,Grocery,Organic,Patanjali,570,917
+P0077,Basmati Rice,Grocery,Snacks,Tata,774,1042
+P0078,Gaming Mouse,Electronics,Audio,Canon,46056,72550
+P0079,Wooden Bookshelf,Home,Bedding,Cello,1557,2716
+P0080,Sunscreen SPF50,Beauty,Skincare,Lakme,1639,2787
+P0081,Kids Hoodie,Clothing,Kids,Allen Solly,1473,2334
+P0082,Cotton Bedsheet,Home,Storage,Cello,172,268
+P0083,DSLR Camera,Electronics,Mobiles,JBL,46749,64460
+P0084,Cotton T-Shirt,Clothing,Footwear,Nike,1209,2067
+P0085,LED Monitor,Electronics,Laptops,JBL,46524,77080
+P0086,Instant Noodles,Grocery,Organic,Tata,1116,1418
+P0087,Green Tea,Grocery,Snacks,Tata,765,1164
+P0088,Curtain Set,Home,Storage,Milton,9953,12566
+P0089,USB Cable,Electronics,Laptops,Samsung,34227,62071
+P0090,Steel Bottle,Home,Kitchen,Cello,12099,16385
+P0091,Cotton Bedsheet,Home ,Decor,Urban Ladder,13849,13799
+P0092,Cotton T-Shirt,Clothing,Footwear,H&M,3312,4965
+P0093,Body Lotion,Beauty,Skincare,Mamaearth,1007,1554
+P0094,Basmati Rice,Grocery,Snacks,Britannia,338,555
+P0095,Masala Chai,Grocery,Snacks,Patanjali,939,1394
+P0096,Biscuits Pack,Grocery,Snacks,Patanjali,421,651
+P0097,Yoga Mat,Sports,Outdoor,Wilson,7111,9602
+P0098,Smartphone,Electronics,Audio,JBL,18924,33152
+P0099,Perfume,Beauty,Skincare,Loreal,511,760
+P0100,Moisturizer,Beauty,Haircare,Lakme,1279,1975
+P0101,Tablet,Electronics,Cameras,HP,24890,42740
+P0102,Power Bank,Electronics,Audio,Sony,13000,17782
+P0103,Shampoo,Beauty,Haircare,Dove,744,1088
+P0104,Skipping Rope,Sports,Fitness,Cosco,10477,13241
+P0105,Leather Belt,Clothing,Footwear,Nike,472,716
+P0106,Non-Stick Pan,Home,Bedding,Urban Ladder,4224,5887
+P0107,Gaming Mouse,Electronics,Accessories,Canon,43594,62082
+P0108,Laptop,Electronics,Audio,Apple,48245,74375
+P0109,Kajal,Beauty,Haircare,Loreal,997,1349
+P0110,Moisturizer,Beauty,Fragrance,Loreal,1063,1695
+P0111,Cricket Bat,Sports,Outdoor,Nivia,8603,12195
+P0112,Instant Noodles,Grocery,Organic,Nestle,1030,1321
+P0113,Running Shoes,Clothing,Footwear,Van Heusen,2482,3126
+P0114,Study Table,Home,Furniture,Urban Ladder,2214,2784
+P0115,Biscuits Pack,Grocery,Beverages,Britannia,1023,1383
+P0116,Gaming Mouse,Electronics,Cameras,Dell,14924,26806
+P0117,Skipping Rope,Sports,Cycling,Cosco,7948,10380
+P0118,Cornflakes,Grocery,Organic,Tata,251,350
+P0119,Earbuds,Electronics,Audio,boAt,6955,12193
+P0120,Earbuds,Electronics,Audio,Dell,36697,47992
+P0121,Cycling Helmet,Sports,Outdoor,Cosco,1730,1680
+P0122,Steel Bottle,Home,Bedding,Urban Ladder,7001,9136
+P0123,Protein Bar,Grocery,Staples,Amul,898,1370
+P0124,Sunscreen SPF50,Beauty,Haircare,Lakme,327,442
+P0125,Face Wash,Beauty,Skincare,Loreal,804,1424
+P0126,Track Pants,Clothing ,Footwear,Levis,2426,3112
+P0127,Winter Jacket,Clothing,Women,Zara,2300,2250
+P0128,Kids Hoodie,Clothing,Women,Van Heusen,2525,4211
+P0129,Laptop,Electronics,Accessories,Dell,53175,67951
+P0130,Wireless Headphones,Electronics,Laptops,Apple,10270,14895
+P0131,Masala Chai,Grocery,Snacks,Amul,352,444
+P0132,Tablet,Electronics,Laptops,Samsung,47906,72995
+P0133,Moisturizer,Beauty,Fragrance,Lakme,1183,1674
+P0134,Sunscreen SPF50,Beauty,Haircare,Loreal,955,1666
+P0135,USB Cable,Electronics,Cameras,Canon,28213,45662
+P0136,Instant Noodles,Grocery,Staples,Patanjali,128,224
+P0137,Lipstick,Beauty,Fragrance,Maybelline,1295,1911
+P0138,Earbuds,Electronics,Laptops,Canon,17355,21761
+P0139,Power Bank,Electronics,Cameras,Sony,6180,10363
+P0140,Gym Gloves,Sports,Outdoor,Nivia,5165,6740
+P0141,Shampoo,Beauty,Fragrance,Dove,1246,2258
+P0142,Pressure Cooker,Home,Storage,Urban Ladder,7352,10032
+P0143,Wall Clock,Home,Bedding,Wakefit,3123,4601
+P0144,DSLR Camera,Electronics,Accessories,Canon,15871,21779
+P0145,Smartwatch,Electronics,Cameras,Canon,19076,19026
+P0146,Shampoo,Beauty,Haircare,Mamaearth,1613,2445
+P0147,Pressure Cooker,Home,Storage,Milton,4552,5712
+P0148,Kurta Set,Clothing,Footwear,Van Heusen,2465,3120
+P0149,Non-Stick Pan,Home,Bedding,Wakefit,14159,23984
+P0150,Moisturizer,Beauty,Haircare,Nivea,1746,1696
+P0151,Track Pants,Clothing,Footwear,Zara,2719,3844
+P0152,Curtain Set,Home,Decor,Milton,6563,10065
+P0153,Kurta Set,Clothing,Kids,Levis,942,1377
+P0154,Face Wash,Beauty,Skincare,Dove,848,1314
+P0155,Power Bank,Electronics,Accessories,Dell,8659,13422
+P0156,Biscuits Pack,Grocery,Staples,Nestle,574,993
+P0157,Sunscreen SPF50,Beauty,Makeup,Mamaearth,1385,1827
+P0158,Running Shoes,Clothing,Kids,Nike,3405,4730
+P0159,Yoga Mat,sports,Cycling,Cosco,2090,3705
+P0160,Basmati Rice,Grocery,Staples,Nestle,158,247
+P0161,Gaming Mouse,Electronics,Accessories,Dell,35045,55669
+P0162,Cotton T-Shirt,Clothing,Men,Allen Solly,889,1317
+P0163,Power Bank,Electronics,Cameras,Apple,15249,24801
+P0164,Wireless Headphones,Electronics ,Cameras,Canon,29989,43431
+P0165,Cricket Bat,SPORTS,Fitness,Nivia,1899,2972
+P0166,Casual Sneakers,Clothing,Footwear,Van Heusen,702,1122
+P0167,LED Lamp,Home,Furniture,Urban Ladder,7637,12130
+P0168,Table Tennis Kit,Sports,Outdoor,Yonex,5994,7594
+P0169,Hair Serum,Beauty,Haircare,Lakme,1481,2391
+P0170,Table Tennis Kit,Sports,Outdoor,Wilson,9727,12760
+P0171,Tablet,Electronics,Mobiles,HP,33807,57731
+P0172,Organic Honey,Grocery,Staples,Tata,365,543
+P0173,Wireless Headphones,Electronics,Cameras,boAt,43568,59633
+P0174,Dumbbell Set,Sports,Outdoor,Wilson,4618,6187
+P0175,Perfume,Beauty,Skincare,Dove,2204,2966
+P0176,Steel Bottle,Home,Furniture,IKEA,457,577
+P0177,Instant Noodles,Grocery,Organic,Amul,918,1227
+P0178,Cooking Oil,Grocery,Snacks,Amul,890,1138
+P0179,Bluetooth Speaker,Electronics,Cameras,Canon,17265,30957
+P0180,Masala Chai,Grocery,Snacks,Tata,528,696
+P0181,Formal Shirt,Clothing,Men,Nike,1375,2199
+P0182,Yoga Mat,Sports,Cycling,Decathlon,8890,12537
+P0183,Cycling Helmet,Sports,Outdoor,Nivia,3873,5623
+P0184,Lipstick,Beauty,Skincare,Maybelline,1963,2507
+P0185,Protein Bar,Grocery,Organic,Tata,242,374
+P0186,Cricket Bat,Sports,Outdoor,Cosco,3529,6300
+P0187,Kajal,Beauty,Haircare,Lakme,1456,2530
+P0188,Kids Hoodie,Clothing,Kids,Nike,1090,1739
+P0189,Steel Bottle,Home,Storage,Prestige,336,527
+P0190,Biscuits Pack,Grocery,Snacks,Patanjali,781,1382
+P0191,Cotton T-Shirt,Clothing,Women,Levis,774,1045
+P0192,Organic Honey,Grocery,Staples,Nestle,295,383
+P0193,Formal Shirt,Clothing,Men,Van Heusen,2038,3449
+P0194,Hair Serum,Beauty,Haircare,Mamaearth,562,783
+P0195,Face Mask,Beauty,Fragrance,Dove,395,511
+P0196,Denim Jeans,Clothing,Men,Allen Solly,2271,4035
+P0197,Curtain Set,Home,Storage,Milton,412,565
+P0198,Bluetooth Speaker,Electronics,Cameras,Sony,20665,27723
+P0199,Storage Box,Home,Bedding,Wakefit,11632,16078
+P0200,Organic Honey,grocery,Beverages,Amul,623,978
